@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Melhores noticias sobre COVID:.</title>
+        <link rel="stylesheet" href="estilo.css"/>
+        <body>
+            <div id= "cabecalho"> 
+               <H1> Só notícias boas sobre o COVID</H1> 
+            </div>
+            <div id= "materia">
+                <div> <a href="https://www.correio24horas.com.br/noticia/nid/fiocruz-130-milhoes-podem-receber-vacina-de-oxford-em-2021/".>Home</a><div>
+                <div> <a href="https://www.linkedin.com/in/cassia-aparecida-emiliano-ab782a72/">Sobre</a></div>
+                <div> <a href="@cassiainsta">Contato</a></div>
+                <div> <a href="https://www.poli.usp.br/comunicados-internos/20296-so-boas-noticias-sobre-a-covid-19.html">Saiba Mais</a></div>
+            
+            
+            </div>
+            <div id= "Imagemgeral">
+                <img src="imagem/imagem.jpg" alt="100 px">
+
+            </div>
+            <div  class="reportagens">
+                <h2> A vacina contra covid-19 que será produzida pela Fundação Oswaldo Cruz (Fiocruz) em parceria com a farmacêutica Astrazeneca e a Universidade de Oxford deve chegar a 30 milhões de brasileiros a mais em 2021, aumentando o total de pessoas alcançadas no país até o fim do ano que vem para cerca de 130 milhões. O ganho de 30% deve ocorrer porque dados dos testes clínicos divulgados nessa segunda-feira (23) mostram que o protocolo de vacinação mais eficaz inclui uma dose reduzida na primeira aplicação, em vez de uma dose complet</h2>
+                <h3>Pesquisadores, cientistas e profissionais da saúde no mundo todo têm focado sua energia e recursos em busca de uma reposta rápida para a pandemia causada pelo novo coronavírus (Sars-CoV-2). Além do desenvolvimento de vacinas, a pesquisa global busca estabelecer tratamentos eficientes e seguros para a covid-19... </h3>
+            </div>
+        </div>
+
+        
+        
+            
+        </body>
+    </head>
+</html>
